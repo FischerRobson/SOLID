@@ -1,11 +1,11 @@
-![Captura de Tela 2022-06-29 às 16.19.21.png](inkdrop://file:z3bynhaVW)
+![solid.png](solid.png)
 ### Vocabulary
 
-Cohesion: is the degree to witch the various parts of a software component are related.
-Coupling: is defined as the level of inter dependency between various software components.
+Cohesion: is the degree to witch the various parts of a software component are related.<br/>
+Coupling: is defined as the level of inter dependency between various software components.<br/>
 
 ## Sigle Responsability Principle (SRP)
-Every software component should have one and only responsability (or reason to change) .<br/>
+Every software component should have one and only responsability (or reason to change).<br/>
 Heigher cohesion helps attain better adherence to SRP.<br/>
 Loose coupling helps attain better adherence to the SRP<br/>
 
