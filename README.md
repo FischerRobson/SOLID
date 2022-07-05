@@ -15,7 +15,7 @@ All examples in this repo was made in Java.
 <a href="single-responsability-principle.md">Single Responsability Principle</a> <br />
 <a href="open-closed-principle.md">Open-Closed Principle</a> <br />
 <a href="liskov-substitution-principle.md">Liskov Substitution Principle</a> <br />
-<a href="interface-segregation-principle.md">Interface Segregation Principle</a> *not done* <br /> 
+<a href="interface-segregation-principle.md">Interface Segregation Principle</a> <br /> 
 <a href="dependency-inversion-principle.md">Dependecy Inversion Principle</a> *not done* <br />
 ### Vocabulary
 
