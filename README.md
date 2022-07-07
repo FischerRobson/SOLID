@@ -8,6 +8,8 @@ The SOLID principles were introduced by Robert C. Martin in his 2000 paper “De
 
 So, what is SOLID and how does it help us write better code? Simply put, Martin and Feathers' design principles encourage us to create more maintainable, understandable, and flexible software. Consequently, as our applications grow in size, we can reduce their complexity and save ourselves a lot of headaches further down the road!
 
+SOLID principles complement each other, and work together in unision, to achieve the common purpose of well-designed software.
+
 All examples in this repo was made in Java.
 
 ## The SOLID Principles
