@@ -1,8 +1,13 @@
 ## Interface Segregation Principle (ISP)
 
-No client should be force to depend on methods it does not use. <br/ >
+No client should be force to depend on methods it does not use.
 
-For the first example imagine you create a interface with all operations that a printer can make.
+Violations of ISP:
+* Fat interfaces
+* Interfaces with low cohesion
+* Empty method implementations
+
+An example, imagine you create a interface with all operations that a printer can make.
 
 ```java
 public interface IMultiFunction {
